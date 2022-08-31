@@ -6,3 +6,5 @@
 
 
 ![划线迷宫](https://upload-images.jianshu.io/upload_images/22512705-92b4d64dec5c2b77.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![汉字向前冲](https://upload-images.jianshu.io/upload_images/22512705-0e09fb5bccbdc190.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
