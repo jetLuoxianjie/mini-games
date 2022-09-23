@@ -1,7 +1,7 @@
 # mini-games
 **下班后自己无聊做的小游戏**
 
-
+![挂机刷怪打魔王](https://upload-images.jianshu.io/upload_images/22512705-2fbdd710aa3f2afa.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ![少侠请你来吃瓜](https://upload-images.jianshu.io/upload_images/22512705-be8e1c4cba42e0cb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
